@@ -11,8 +11,8 @@ Página web de las X Jornadas Peirce en Argentina, CABA, Argentina 2025
 
 - [Acosta y Florez](/articulos/acosta-florez.html)
 - [Balzarini](/articulos/balzarini.html)
-- [belaustegui](/articulos/belaustegui.html)
-- [de Boeck](/articulos/de-boeck.html)
+- [Belaustegui](/articulos/belaustegui.html)
+- [De Boeck](/articulos/de-boeck.html)
 - [Gavriloff](/articulos/gavriloff.html)
 - [Hynes](/articulos/hynes.html)
 - [Mayorga](/articulos/mayorga.html)
