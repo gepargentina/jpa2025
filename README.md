@@ -15,6 +15,7 @@ Página web de las X Jornadas Peirce en Argentina, CABA, Argentina 2025
 - [De Boeck](/articulos/de-boeck.html)
 - [Gavriloff](/articulos/gavriloff.html)
 - [Hynes](/articulos/hynes.html)
+- [Legris](/articulos/legris.html)
 - [Mayorga](/articulos/mayorga.html)
 - [Murcia](/articulos/murcia.html)
 - [Niz](/articulos/niz.html)
