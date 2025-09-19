@@ -48,6 +48,7 @@ Coordinadora del Comité Organizador
 - [Gavriloff](/articulos/gavriloff.html)
 - [Hynes](/articulos/hynes.html)
 - [Legris](/articulos/legris.html)
+- [Maddalena](/articulos/maddalena.html)
 - [Mayorga](/articulos/mayorga.html)
 - [Murcia](/articulos/murcia.html)
 - [Niz](/articulos/niz.html)
